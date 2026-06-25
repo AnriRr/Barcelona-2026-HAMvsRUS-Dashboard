@@ -1,4 +1,4 @@
-# 2026 Spanish GP — Strategy Dashboard
+# 2026 Spanish GP Strategy Dashboard
 
 Interactive race strategy analysis for Hamilton (Ferrari) vs Russell (Mercedes) using real FastF1 data.
 
