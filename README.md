@@ -17,6 +17,6 @@ Opens in your browser automatically. First run downloads the session data into `
 
 ## What it shows
 
-- **Lap Times** — all laps with pit stops annotated
-- **Gap** — cumulative time difference between the two drivers
-- **Tyre Stint Map** — compound and lap range per stint with VSC periods highlighted
+- **Lap Times** : all laps with pit stops annotated
+- **Gap** : cumulative time difference between the two drivers
+- **Tyre Stint Map** : compound and lap range per stint with VSC periods highlighted
