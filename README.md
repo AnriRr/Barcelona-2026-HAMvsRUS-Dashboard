@@ -4,7 +4,7 @@ Interactive race strategy analysis for Hamilton (Ferrari) vs Russell (Mercedes) 
 
 ## View the dashboard
 
-[Open Dashboard](https://AnriRr.github.io/Barcelona-2026-HAMvsRUS/barcelona_2026_HAMvsRUS_dashboard.html)
+[Open Dashboard](https://AnriRr.github.io/Barcelona-2026-HAMvsRUS-Dashboard/barcelona_2026_HAMvsRUS_dashboard.html)
 
 ## Run it locally
 
